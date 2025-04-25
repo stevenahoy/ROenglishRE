@@ -440209,6 +440209,41 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[102450] = {
+		unidentifiedDisplayName = "21st Anniversary Gift Box",
+		unidentifiedResourceName = "21th_Present_Box",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "21st Anniversary Gift Box",
+		identifiedResourceName = "21th_Present_Box",
+		identifiedDescriptionName = {
+			"A gift box given in celebration of Ragnarok Online's 21st anniversary.",
+			"_______________________",
+			"Contains the following items:",
+			"[Not for Sale] 3x 21st Anniversary All-in-One Potion",
+			"[Not for Sale] 1x Kafra Buff (7 Days)^000000",
+			"^ff0000(This item will be deleted on October 18, 2023)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102451] = {
+		unidentifiedDisplayName = "Mileage Gift Coupon Envelope",
+		unidentifiedResourceName = "Snow_Festa_CardPack",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Mileage Gift Coupon Envelope",
+		identifiedResourceName = "Snow_Festa_CardPack",
+		identifiedDescriptionName = {
+			"An envelope containing one [Kachua] Mileage Coupon and one Nyangdaré Mileage Coupon.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[102454] = {
 		unidentifiedDisplayName = "[NotForSale] All-in-One Buff Potion",
 		unidentifiedResourceName = "All_In_One_buff",
@@ -440350,6 +440385,119 @@ tbl = {
 			"^ff0000This item cannot be traded with other accounts.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102467] = {
+		unidentifiedDisplayName = "21st Anniversary Eve Costume Selection Box",
+		unidentifiedResourceName = "21th_Present_Box",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "21st Anniversary Eve Costume Selection Box",
+		identifiedResourceName = "21th_Present_Box",
+		identifiedDescriptionName = {
+			"A costume box made to celebrate the 21st anniversary event.",
+			"You can obtain 1 selected costume and 3 Costume Enchant Stone Box 32.",
+			"_______________________",
+			"[Selectable Costumes]",
+			"- Costume Ocean Color Long",
+			"- Costume Aqua Fin Ornament",
+			"- Costume Sailor Cap",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102468] = {
+		unidentifiedDisplayName = "21st Anniversary Eve Costume Collection Box",
+		unidentifiedResourceName = "21th_Present_Box2",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "21st Anniversary Eve Costume Collection Box",
+		identifiedResourceName = "21th_Present_Box2",
+		identifiedDescriptionName = {
+			"A costume box created to commemorate the 21st anniversary event.",
+			"You will receive all three costumes and 10 Costume Enchant Stone Box 32.",
+			"_______________________",
+			"[Included Costumes]",
+			"- Costume Ocean Color Long",
+			"- Costume Aqua Fin Ornament",
+			"- Costume Sailor Cap",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102482] = {
+		unidentifiedDisplayName = "¼±¾ÇÀÇ ºÎÃ÷ Á¦·Ã¸ÁÄ¡",
+		unidentifiedResourceName = "Special_Hat_Hammer",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "¼±¾ÇÀÇ ºÎÃ÷ Á¦·Ã¸ÁÄ¡",
+		identifiedResourceName = "Special_Hat_Hammer",
+		identifiedDescriptionName = {
+			"A mysterious hammer that increases the refining level of Good and Evil Boots equipment by +1.",
+			"_______________________",
+			"Can be used on Good and Evil Boots with a refining level of +9 or higher and +11 or lower.",
+			"_______________________",
+			"When used, it will consume 14 Blacksmith Blessing as materials.",
+			"_______________________",
+			"[Obtainable Items]",
+			"Boots of Good and Evil (Cardinal)",
+			"Boots of Good and Evil (Inquisitor)",
+			"Boots of Good and Evil (Soul Ascetic)",
+			"Boots of Good and Evil (Dragon Knight)",
+			"Boots of Good and Evil (Biolo)",
+			"Boots of Good and Evil (Spirit Handler)",
+			"Boots of Good and Evil (Elemental Master)",
+			"Boots of Good and Evil (Wind Hawk)",
+			"Boots of Good and Evil (Sky Emperor)",
+			"Boots of Good and Evil (Meister)",
+			"Boots of Good and Evil (Shadow Cross)",
+			"Boots of Good and Evil (Shinkiro Shiranui)",
+			"Boots of Good and Evil (Abyss Chaser)",
+			"Boots of Good and Evil (Troubadour Trouvere)",
+			"Boots of Good and Evil (Hyper Novice)",
+			"Boots of Good and Evil (Imperial Guard)",
+			"Boots of Good and Evil (Arch Mage)",
+			"Boots of Good and Evil (Night Watch)",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102485] = {
+		unidentifiedDisplayName = "Shadow Essence 3 Box",
+		unidentifiedResourceName = "¹øÈ£»óÀÚ02",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Shadow Essence 3 Box",
+		identifiedResourceName = "¹øÈ£»óÀÚ02",
+		identifiedDescriptionName = {
+			"A box containing 3 Shadow Essences.",
+			"_______________________",
+			"An unknown essence that can grant mysterious powers to Shadow equipment.",
+			"It can grant random options or enchantments to Shadows with a required level of 200 or higher, or upgrade them.",
+			"^ffffff<NAVI>^4D4DFF[Guard]^000000<INFO>itemmall,31,70,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[Shadow Exclusive Magic Book]^000000<INFO>itemmall,41,63,0,100,0,0</INFO></NAVI>^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102514] = {
+		unidentifiedDisplayName = "Granting the truth of the cycle of life",
+		unidentifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Granting the truth of the cycle of life",
+		identifiedResourceName = "¿À·¡µÈº¸¶ó»óÀÚ",
+		identifiedDescriptionName = {
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -440591,6 +440739,433 @@ tbl = {
 		identifiedDescriptionName = {
 			"A box containing Snow Flower Magic Stone Ores.",
 			"There is a low chance that a Snow Flower Magic Stone or Shining Snow Flower Magic Stone will appear.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102550] = {
+		unidentifiedDisplayName = "Artifact of Glastheim (King Who Swallowed the Curse)",
+		unidentifiedResourceName = "È¯¿µ¹«»ó",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Artifact of Glastheim (King Who Swallowed the Curse)",
+		identifiedResourceName = "È¯¿µ¹«»ó",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Glastheim area..",
+			"^32CD32(You can obtain the loot of the King Who Swallowed the Curse.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102551] = {
+		unidentifiedDisplayName = "Artifact of Glastheim (King Who Swallowed the Curse (High))",
+		unidentifiedResourceName = "È¯¿µ¹«»ó",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Artifact of Glastheim (King Who Swallowed the Curse (High))",
+		identifiedResourceName = "È¯¿µ¹«»ó",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Glastheim area.",
+			"^32CD32(You can obtain the loot of the King Who Swallowed the Curse (High))^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102552] = {
+		unidentifiedDisplayName = "Artifact of Glastheim (Illusion of Amdarais)",
+		unidentifiedResourceName = "È¯¿µ¹«»ó",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Artifact of Glastheim (Illusion of Amdarais)",
+		identifiedResourceName = "È¯¿µ¹«»ó",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Glastheim area.",
+			"^32CD32(You can obtain the loot of the illusion of Amdarais.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102553] = {
+		unidentifiedDisplayName = "Artifact of Glastheim (Illusion of Himelmez)",
+		unidentifiedResourceName = "È¯¿µ¹«»ó",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Artifact of Glastheim (Illusion of Himelmez)",
+		identifiedResourceName = "È¯¿µ¹«»ó",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Glastheim area.",
+			"^32CD32(You can obtain the loot of Illusion of Himelmez.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190		
+	},
+	[102554] = {
+		unidentifiedDisplayName = "Glastheim's Artifact (Amdarais)",
+		unidentifiedResourceName = "È¯¿µ¹«»ó",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Glastheim's Artifact (Amdarais)",
+		identifiedResourceName = "È¯¿µ¹«»ó",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Glastheim area.",
+			"^32CD32(You can obtain the loot Amdarais has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102555] = {
+		unidentifiedDisplayName = "Artifact of Glastheim (Awakened Amdarais)",
+		unidentifiedResourceName = "È¯¿µ¹«»ó",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Artifact of Glastheim (Awakened Amdarais)",
+		identifiedResourceName = "È¯¿µ¹«»ó",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Glastheim area.",
+			"^32CD32(You can obtain the loot that Awakened Amdarais has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102556] = {
+		unidentifiedDisplayName = "Cor's Relic (Miguel)",
+		unidentifiedResourceName = "Poisoned_Amethyst",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Cor's Relic (Miguel)",
+		identifiedResourceName = "Poisoned_Amethyst",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Cor area.",
+			"^32CD32(You can get the loot Miguel has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102557] = {
+		unidentifiedDisplayName = "Cor's Relic (EL-A17T)",
+		unidentifiedResourceName = "Poisoned_Amethyst",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Cor's Relic (EL-A17T)",
+		identifiedResourceName = "Poisoned_Amethyst",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Cor area.",
+			"^32CD32(You can obtain the loot that EL-A17T has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102558] = {
+		unidentifiedDisplayName = "Mansion Artifact (Meow)",
+		unidentifiedResourceName = "Costama_Egg110",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Mansion Artifact (Meow)",
+		identifiedResourceName = "Costama_Egg110",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Great Sage's Mansion area.",
+			"^32CD32(You can get the loot Meow has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102559] = {
+		unidentifiedDisplayName = "Mansion Artifact (Sweety)",
+		unidentifiedResourceName = "Costama_Egg110",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Mansion Artifact (Sweety)",
+		identifiedResourceName = "Costama_Egg110",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Great Sage's Mansion area.",
+			"^32CD32(You can get the loot that Sweety has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102560] = {
+		unidentifiedDisplayName = "Mansion Artifact (Red Pepper (Kappa))",
+		unidentifiedResourceName = "Costama_Egg110",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Mansion Artifact (Red Pepper (Kappa))",
+		identifiedResourceName = "Costama_Egg110",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Great Sage's Mansion area.",
+			"^32CD32(You can obtain the loot that Red Pepper (Kappa) has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102561] = {
+		unidentifiedDisplayName = "Mansion Artifact (Red Pepper (Lambda))",
+		unidentifiedResourceName = "Costama_Egg110",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Mansion Artifact (Red Pepper (Lambda))",
+		identifiedResourceName = "Costama_Egg110",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Great Sage's Mansion area.",
+			"^32CD32(You can obtain the loot that Red Pepper (Lambda) has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102562] = {
+		unidentifiedDisplayName = "Villa Artifact (Distorted God)",
+		unidentifiedResourceName = "Ãµ»çÀÇ¾Ë",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Villa Artifact (Distorted God)",
+		identifiedResourceName = "Ãµ»çÀÇ¾Ë",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the High Priest's Villa.",
+			"^32CD32(You can obtain the spoils of the Distorted God.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102563] = {
+		unidentifiedDisplayName = "Isgard's Artifact (Juncea)",
+		unidentifiedResourceName = "Scroll_Stall",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Isgard's Artifact (Juncea)",
+		identifiedResourceName = "Scroll_Stall",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Isgard area.",
+			"^32CD32(You can get the loot Juncea has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102564] = {
+		unidentifiedDisplayName = "Isgard's Relic (Aquila)",
+		unidentifiedResourceName = "Scroll_Stall",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Isgard's Relic (Aquila)",
+		identifiedResourceName = "Scroll_Stall",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Isgard area.",
+			"^32CD32(You can obtain the loot Aquila has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102565] = {
+		unidentifiedDisplayName = "Isgard's Relic (Aquila (First Class))",
+		unidentifiedResourceName = "Scroll_Stall",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Isgard's Relic (Aquila (First Class))",
+		identifiedResourceName = "Scroll_Stall",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Isgard area.",
+			"^32CD32(You can obtain the loot that Aquila (First Class) has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102566] = {
+		unidentifiedDisplayName = "Isgard's Relic (Fallen Angel Snail)",
+		unidentifiedResourceName = "±º¿ëÁö¼ö",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Isgard's Relic (Fallen Angel Snail)",
+		identifiedResourceName = "±º¿ëÁö¼ö",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Isgard area.",
+			"^32CD32(You can obtain the loot from the Fallen Angel Snail.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102567] = {
+		unidentifiedDisplayName = "Isgard's Relic (Ultimate Lasgand)",
+		unidentifiedResourceName = "±º¿ëÁö¼ö",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Isgard's Relic (Ultimate Lasgand)",
+		identifiedResourceName = "±º¿ëÁö¼ö",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Isgard area.",
+			"^32CD32(You can obtain the loot that Ultimate Lasgand has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102568] = {
+		unidentifiedDisplayName = "Isgard's Relic (Ultimate Lasgand (High))",
+		unidentifiedResourceName = "±º¿ëÁö¼ö",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Isgard's Relic (Ultimate Lasgand (High))",
+		identifiedResourceName = "±º¿ëÁö¼ö",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Isgard area.",
+			"^32CD32(You can obtain the loot that Ultimate Lasgand (High) has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102569] = {
+		unidentifiedDisplayName = "Toy Factory Artifact (Celine Kimi)",
+		unidentifiedResourceName = "Robot_Heart_Scroll",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Toy Factory Artifact (Celine Kimi)",
+		identifiedResourceName = "Robot_Heart_Scroll",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Toy Factory.",
+			"^32CD32(You can get the loot that Celine Kimi has.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102570] = {
+		unidentifiedDisplayName = "Relic of Regret (Sakray)",
+		unidentifiedResourceName = "Thrones_Egg",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Relic of Regret (Sakray)",
+		identifiedResourceName = "Thrones_Egg",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Tomb of Regret.",
+			"^32CD32(You can obtain the loot from the swordsman Sakray.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102571] = {
+		unidentifiedDisplayName = "Artifact of the Bio Dungeon (Unknown Inspector)",
+		unidentifiedResourceName = "»ç³ä½ºÅ©·Ñ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Artifact of the Bio Dungeon (Unknown Inspector)",
+		identifiedResourceName = "»ç³ä½ºÅ©·Ñ",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in the Bio Dungeon.",
+			"^32CD32(You can obtain the loot of the Unknown Inspector.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102572] = {
+		unidentifiedDisplayName = "Relic of Thanatos Tower (Memory of Thanatos)",
+		unidentifiedResourceName = "È¯»ó½ºÅ©·Ñ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Relic of Thanatos Tower (Memory of Thanatos)",
+		identifiedResourceName = "È¯»ó½ºÅ©·Ñ",
+		identifiedDescriptionName = {
+			"An artifact found after a battle in Thanatos Tower.",
+			"^32CD32(You can obtain the loot of Memory of Thanatos.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102573] = {
+		unidentifiedDisplayName = "Crash Landing Artifact (Unidentified Lifeform)",
+		unidentifiedResourceName = "½Å³â¼±¹°ºÀÅõ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Crash Landing Artifact (Unidentified Lifeform)",
+		identifiedResourceName = "½Å³â¼±¹°ºÀÅõ",
+		identifiedDescriptionName = {
+			"An artifact found after a battle at the Unidentified Crash Landing.",
+			"^32CD32(You can obtain the loot from the Unidentified Lifeform.)^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1190
+	},
+	[102593] = {
+		unidentifiedDisplayName = "[Event] Honey Songpyeon",
+		unidentifiedResourceName = "Çà¿îÀÇ¶±",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[Event] Honey Songpyeon",
+		identifiedResourceName = "Çà¿îÀÇ¶±",
+		identifiedDescriptionName = {
+			"A holiday gift for all adventurers who log in during the Chuseok holiday, a traditional Korean holiday.",
+			"Experience gained increases by 100% for 60 minutes.",
+			"^ff0000(Warning: The effect does not stack with other types of combat manuals.)^000000",
+			"_______________________",
+			"^ff0000(This item will be deleted during the second regular maintenance in September 2024.)^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -440876,6 +441451,71 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[102624] = {
+		unidentifiedDisplayName = "Spirit Aura Box",
+		unidentifiedResourceName = "Àºº¸¹°»óÀÚ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Á¤·ÉÀÇ ±â¿î »óÀÚ",
+		identifiedResourceName = "Àºº¸¹°»óÀÚ",
+		identifiedDescriptionName = {
+			"A box containing all the spirit auras purified in the Garden of Time.",
+			"[Obtainable Items]",
+			"_______________________",
+			"Fire Aura x15",
+			"Water Aura x15",
+			"Wind Aura x15",
+			"Earth Aura x15",
+			"Spirit Protection x5",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102625] = {
+		unidentifiedDisplayName = "Seasonal Aura Box",
+		unidentifiedResourceName = "±Ýº¸¹°»óÀÚ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Seasonal Aura Box",
+		identifiedResourceName = "±Ýº¸¹°»óÀÚ",
+		identifiedDescriptionName = {
+			"A box containing all the spirit auras purified in the Garden of Time.",
+			"[Obtainable Items]",
+			"_______________________",
+			"Spring Aura x5",
+			"Summer Aura x5",
+			"Autumn Aura x5",
+			"Winter Aura x5",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102626] = {
+		unidentifiedDisplayName = "Box of Life",
+		unidentifiedResourceName = "´ÙÀÌ¾Æº¸¹°»óÀÚ",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Box of Life",
+		identifiedResourceName = "´ÙÀÌ¾Æº¸¹°»óÀÚ",
+		identifiedDescriptionName = {
+			"A box containing all the materials that appear in the Hall of Life.",
+			"[Obtainable Items]",
+			"_______________________",
+			"Circle of Life x30",
+			"Fruit of Birth x15",
+			"Fruit of Extinction x15",
+			"Truth of Life x10",
+			"Light of Life x3",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[102631] = {
 		unidentifiedDisplayName = "Cinnamoroll Costume Selection Box",
 		unidentifiedResourceName = "Æ÷ÀåµÈ»óÀÚ",
@@ -440932,6 +441572,22 @@ tbl = {
 			"A box containing 1 out of 11 Costume Effect Stones, 1 out of 58 Costume Garment/Dual Stones and 1 out of 56 Costume Lower Stones.",
 			"_______________________",
 			"^0000CCWeight:^000000 3"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102638] = {
+		unidentifiedDisplayName = "Sonic Badge Pack",
+		unidentifiedResourceName = "S_Badge_pack",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Sonic Badge Pack",
+		identifiedResourceName = "S_Badge_pack",
+		identifiedDescriptionName = {
+			"Contains 8 Sonic Badges.",
+			"^ff0000Eight rings are included as a bonus.^000000",
+			"_______________________",
+			"^0000CCWeight:^000000 10"
 		},
 		slotCount = 0,
 		ClassNum = 0,
